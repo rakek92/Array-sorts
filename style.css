@@ -1,0 +1,27 @@
+body {
+background:url(http://cdn.wallpapersafari.com/6/61/oveJtT.jpg) no-repeat;
+background-size:100%;
+padding-left:100px;
+padding-top:50px;
+position: fixed;
+background-attachment: scroll; 
+}
+#old{
+	
+}
+#output{
+	padding-top: 20px;
+
+	width: 350px
+}
+#arr{
+	padding-left: 500px
+
+}
+table {
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+th, td{
+border:1px solid black;
+}
